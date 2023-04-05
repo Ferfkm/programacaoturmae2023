@@ -1,8 +1,25 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
     background: #412CA3;
 }
 
-ul{
+.menu{
     font-size: 60px;
+    display: flex;
+    margin-left: 1000px;
 }
 
+.computlogo{
+    width: 180px;
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+.itemlista{
+    color: red;
+    margin-right: 60px;
+   
+}
