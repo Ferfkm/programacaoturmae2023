@@ -12,14 +12,29 @@
     margin-left: 1000px;
 }
 
-.computlogo{
+.complivros{
     width: 180px;
     position: relative;
     left: 200px;
     top: 50px;
 }
 .itemlista{
-    color: red;
+    color: rgb(255, 255, 255);
     margin-right: 60px;
    
+}
+.conteudoprincipal{
+    background-image: linear-gradient(#412CA3, #7F72BC);
+    color:aqua;
+}
+.imagem-alura{
+    width: 350px;
+    display: inline;
+    position: relative;
+    margin-left: 1500px;
+}
+.conteudo-grupo{
+    padding-left: 300px;
+    padding-top: 150px;
+    font-size: 75px;
 }
