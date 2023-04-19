@@ -3,13 +3,13 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .cabecalhoprincipal { 
-    background: #59D9F6;
+    background: #442FA4;
     color: white;
 }
 .cabeçalho{
     display: flex;
     font-size: 60px;
-    margin-left: 200px;
+    margin-left: 700px;
     margin-top: 10px
 }
 .logo{
@@ -34,14 +34,14 @@ body{
 }
 
 .conteudoprincipal{
-    background-image: linear-gradient(#59D9F6, #cce8ee);
+    background-image: linear-gradient(#442FA4, #7F72BC);
     color:rgb(240, 245, 245);
 }
 .imagem-alura{
     width: 250px;
     display: inline;
     position: relative;
-    margin-left: 1200px;
+    margin-left: 1700px;
     margin-top: 5px;
     margin-bottom: 100px;
 }
@@ -59,22 +59,18 @@ body{
     font-size: 50px;
     color: rgb(26, 27, 25);
 }
-.secaocursista{
-    background-color: #8BB9C3;
+.secaocursistas{
+    background-color: #A898F4;
 }
-.imagem-cursista{
-    width: 130px;
+.titulo-cursistas{
+    font-family: tohoma;
+    font-size: 85px;
+    color: rgb(4, 4, 4);
+    text-align: center;
 }
-.titulocursista{
-    font-size: 30px;
-    font-family: verdana;
-    color: green;
-    text-align:center;
+.foto-cursistas{
+    width: 180px;
 }
-.cursitasdiv{
-    margin: 60px;
-}
-.todoscursistas{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20% ;
+.nome-cursistas{
+    text-align: center;
 }
