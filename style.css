@@ -71,6 +71,18 @@ body{
 .foto-cursistas{
     width: 180px;
 }
-.nome-cursistas{
+
+.todoscursistasdiv{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+footer{
+    background: #442FA4;
+    display: flex;
+}
+.rodapediv{
+    margin-left: 1450px;
+}
+.divcursista{
     text-align: center;
 }
